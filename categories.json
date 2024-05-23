@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Math",
+    "clues": [
+      {"question": "2+2", "answer": 4},
+      {"question": "3+3", "answer": 6},
+      {"question": "4+4", "answer": 8},
+      {"question": "5+5", "answer": 10},
+      {"question": "6+6", "answer": 12}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Science",
+    "clues": [
+      {"question": "H2O", "answer": "Water"},
+      {"question": "CO2", "answer": "Carbon Dioxide"},
+      {"question": "NaCl", "answer": "Salt"},
+      {"question": "O2", "answer": "Oxygen"},
+      {"question": "N2", "answer": "Nitrogen"}
+    ]
+  },
+  {
+    "id": 3,
+    "title": "History",
+    "clues": [
+      {"question": "First President of the United States", "answer": "George Washington"},
+      {"question": "Year the Declaration of Independence was signed", "answer": 1776},
+      {"question": "Country that Columbus sailed for", "answer": "Spain"},
+      {"question": "Roman Emperor during the Great Fire of Rome", "answer": "Nero"},
+      {"question": "Leader of the Soviet Union during WWII", "answer": "Joseph Stalin"}
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Literature",
+    "clues": [
+      {"question": "Hamlet Author", "answer": "Shakespeare"},
+      {"question": "1984 Author", "answer": "George Orwell"},
+      {"question": "The Great Gatsby Author", "answer": "F. Scott Fitzgerald"},
+      {"question": "Moby Dick Author", "answer": "Herman Melville"},
+      {"question": "To Kill a Mockingbird Author", "answer": "Harper Lee"}
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Geography",
+    "clues": [
+      {"question": "Capital of France", "answer": "Paris"},
+      {"question": "Largest country by area", "answer": "Russia"},
+      {"question": "Smallest country by area", "answer": "Vatican City"},
+      {"question": "River that runs through Egypt", "answer": "Nile"},
+      {"question": "Highest mountain in the world", "answer": "Everest"}
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Art",
+    "clues": [
+      {"question": "Mona Lisa Painter", "answer": "Leonardo da Vinci"},
+      {"question": "The Starry Night Painter", "answer": "Vincent van Gogh"},
+      {"question": "The Persistence of Memory Painter", "answer": "Salvador Dalí"},
+      {"question": "The Scream Painter", "answer": "Edvard Munch"},
+      {"question": "American Gothic Painter", "answer": "Grant Wood"}
+    ]
+  }
+]
